@@ -1,3 +1,4 @@
+
 # QuickCart - MERN Stack E-Commerce Application
 
 A full-stack e-commerce application built with MongoDB, Express, React, and Node.js. Features include product browsing, shopping cart, category filtering, and cloud-based image storage using Cloudinary.
@@ -206,4 +207,7 @@ Feel free to submit issues and enhancement requests!
 ## 📄 License
 
 This project is open source and available under the MIT License.
+
+=======
+# WP-project
 
